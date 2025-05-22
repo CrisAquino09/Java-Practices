@@ -33,13 +33,13 @@ public class Hijo extends Padre {
     @Override
     public String toString() {
         return "Hijo{" +
-                "colorOjos='" + colorOjos + '\'' +
-                ", complexion='" + complexion + '\'' +
                 ", nombre='" + nombre + '\'' +
                 ", apellido='" + apellido + '\'' +
                 ", edad=" + edad +
                 ", altura=" + altura +
                 ", nacionalidad='" + nacionalidad + '\'' +
+                "colorOjos='" + colorOjos + '\'' +
+                ", complexion='" + complexion + '\'' +
                 "}\n";
     }
 }
